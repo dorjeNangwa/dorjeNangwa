@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Git, Github, VS Code and patience.
-- 🌱 I’m currently learning javascript and patience.
-- 👯 I’m looking to collaborate on something later.
+- 🔭 I’m currently learning on Git and Github.
+- 🌱 I’m currently learning Responsive Web Design and JavaScript.
+- 👯 I’m may be looking to collaborate on something much later.
 - 🤔 I’m looking for help with newbness. 
 - 📫 How to reach me: dorjenangwa@gmail.com
 - 😄 Pronouns: I'm a dude with a lightsaber.
