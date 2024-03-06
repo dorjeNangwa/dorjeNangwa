@@ -5,5 +5,4 @@
 - 👯 I’m may be looking to collaborate on something much later.
 - 🤔 I’m looking for help with newbness. 
 - 📫 How to reach me: dorjenangwa@gmail.com
-- 😄 Pronouns: I'm a dude with a lightsaber.
 - ⚡ Fun fact: Father's Day began in Spokane, Wa.
